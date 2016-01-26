@@ -1,10 +1,8 @@
 
 import React from 'react';
 
-
 import CurrentUser from './CurrentUser';
 import BugTable from './BugTable';
-
 
 const App = React.createClass({
 
